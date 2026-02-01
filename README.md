@@ -1,4 +1,8 @@
-# Hinge Profile Optimizer
+# Hinge Dating Profile Optimizer
+
+**A Claude Skill for Claude Code & Claude Desktop**
+
+---
 
 Everyone has something. The way they think, what they care about, their weird specific interests, how they show up for people, what makes them laugh.
 
