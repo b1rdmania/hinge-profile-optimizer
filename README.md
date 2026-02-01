@@ -8,6 +8,18 @@ This skill finds it and puts it where people can see it.
 
 ---
 
+## ⏱️ Time Investment
+
+**This takes 60-90 minutes.**
+
+Not a quick fix. Not "5 tips for better prompts."
+
+This is the full process: research-backed audit, proper discovery interview, strategic photo selection, copy that sounds like you, settings optimization, and implementation support.
+
+Strap in. It's a small investment to meet your life partner. Or your weekend 9/10 hookup. We don't judge.
+
+---
+
 ## Philosophy
 
 **You're not making someone more appealing. You're making them visible.**
@@ -20,35 +32,40 @@ This process pulls them out.
 
 ---
 
-## What This Is
+## What We Actually Do
 
-A comprehensive, research-backed approach to Hinge profile optimization.
+### Phase 0: Setup
+Set expectations. Frame the process. Make it clear this isn't an interrogation — we're gathering ingredients to cook with. Nothing is mandatory, dictate answers if typing's a chore, skip anything you want.
 
-- **45+ peer-reviewed sources** on dating app behavior, signaling theory, and algorithm mechanics
-- **8-phase process** from discovery to implementation
-- **~60-90 minutes** for the full process
-- **Principles over templates** — find *their* version, not a copy of someone else's
+### Phase 1: Audit
+If you have a current profile, we score it. Photos, prompts, completeness, what it's actually signaling vs what you think it's signaling. Honest but kind. "Here's what's working, here's the opportunities."
+
+### Phase 2: Discovery
+The heart of it. We ask a lot of questions — work, interests, opinions, relationships, lifestyle, guilty pleasures, pet peeves, weird rituals. Looking for the specific stuff. The things that make you *you*. We won't use everything. We're finding where to lean in.
+
+### Phase 3: Reality Check
+Gentle market math. Who are you trying to attract? Is your age range realistic? Is your distance too narrow? Are your dealbreakers filtering out people you'd actually like? Honest conversation about strategy — quality over quantity, memorable to the right people.
+
+### Phase 4: Photos
+Evaluate what you have. Score each one. Identify gaps (workspace shot? full body? social proof?). Set the order — first photo has 10x the impact of everything else. If you need new photos, we'll tell you exactly what to shoot.
+
+### Phase 5: Copy
+Write the actual prompts and captions. Using your discovery material, not generic templates. Specific, hookable, filtered for the right people. Every element should start a conversation. 150 characters, every word earns its place.
+
+### Phase 6: Settings
+The stuff people forget. Distance, age range, dealbreakers, what's visible at the top of your profile. Hide the clutter (star signs, probably). Optimize for visibility.
+
+### Phase 7: Implementation
+We don't just hand you a document. We help you put it live. Photo order, copy-paste each prompt, settings adjustments, preview check, go live. Done together.
+
+### Phase 8: Algorithm Strategy
+Post-launch guidance. Daily activity, always comment (never empty likes), response timing, selectivity, what to expect in weeks 1-4.
 
 ---
 
-## The Process
+## The Research
 
-| Phase | What Happens |
-|-------|--------------|
-| **0. Setup** | Frame the process, reduce defensiveness |
-| **1. Audit** | Score current profile against research |
-| **2. Discovery** | The big interview — find the real person |
-| **3. Reality Check** | Market math, settings alignment |
-| **4. Photos** | Evaluate, order, identify gaps |
-| **5. Copy** | Write prompts and captions |
-| **6. Settings** | Optimize visibility, reduce clutter |
-| **7. Implementation** | Put it live together |
-
-Not everyone needs every phase. The skill adapts.
-
----
-
-## Key Research Findings
+This isn't vibes. It's built on 45+ peer-reviewed sources.
 
 | Finding | Impact |
 |---------|--------|
@@ -57,8 +74,9 @@ Not everyone needs every phase. The skill adapts.
 | Comments vs simple likes | **2x more likely to get dates** |
 | Mirror selfies | **78% turn-off** |
 | Professional photos | **178% more matches** |
+| Most Compatible matches | **8x more likely to result in dates** |
 
-The research is summarized in `references/research-findings.md`.
+Signaling theory, algorithm mechanics, photo psychology, prompt effectiveness — it's all in `references/research-findings.md`.
 
 ---
 
