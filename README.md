@@ -14,7 +14,7 @@ This skill finds it and puts it where people can see it.
 
 ## ⏱️ Time Investment
 
-**This takes 60-90 minutes.**
+**This takes 45 minutes.**
 
 Not a quick fix. Not "5 tips for better prompts."
 
