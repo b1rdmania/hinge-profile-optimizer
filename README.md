@@ -82,7 +82,9 @@ Signaling theory, algorithm mechanics, photo psychology, prompt effectiveness �
 
 ## Installation
 
-Drop into your Claude Code skills directory:
+### Claude Code
+
+Drop into your skills directory:
 
 ```
 ~/.claude/skills/hinge-profile-optimizer/
@@ -98,6 +100,18 @@ Drop into your Claude Code skills directory:
 ```
 
 Or install via SkillsMP once indexed.
+
+### Claude Desktop
+
+1. Download this repo (Code → Download ZIP, or `git clone`)
+2. Open Claude Desktop
+3. Start a new project
+4. Add all the `.md` files to your project knowledge:
+   - `SKILL.md`
+   - Everything in `references/`
+5. Start chatting — Claude will have the full process
+
+**Tip:** You can also just copy-paste `SKILL.md` and the reference files directly into a conversation, but adding to project knowledge means it persists across chats.
 
 ---
 
