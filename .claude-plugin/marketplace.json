@@ -1,0 +1,20 @@
+{
+  "name": "hinge-profile-optimizer",
+  "owner": {
+    "name": "b1rdmania",
+    "email": ""
+  },
+  "metadata": {
+    "description": "Research-backed Hinge dating profile optimization. Discovery interview, game theory analysis, photo strategy, copy creation, and settings optimization.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "hinge-profile-optimizer",
+      "description": "Comprehensive Hinge profile optimization based on 45+ peer-reviewed sources. Includes 8-phase process: audit, discovery interview, reality check, photo strategy, copy creation, settings optimization, implementation support, and algorithm strategy.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./"]
+    }
+  ]
+}
