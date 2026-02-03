@@ -2,6 +2,10 @@
 
 **A Claude Skill for Claude Desktop & Claude.ai**
 
+<p align="center">
+  <img src="claude-bots-love.svg" alt="Two Claude bots in love" width="280">
+</p>
+
 ---
 
 Everyone has something. The way they think, what they care about, their weird specific interests, how they show up for people, what makes them laugh.
