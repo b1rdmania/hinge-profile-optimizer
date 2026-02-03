@@ -1,6 +1,6 @@
 # Hinge Dating Profile Optimizer
 
-**A Claude Skill for Claude Code & Claude Desktop**
+**A Claude Skill for Claude Desktop & Claude.ai**
 
 ---
 
@@ -24,46 +24,25 @@ Strap in. It's a small investment to meet your life partner. Or your weekend 9/1
 
 ---
 
-## Philosophy
+## This Isn't Copy-Paste Advice
 
-**You're not making someone more appealing. You're making them visible.**
+Most "profile tips" give you a template and send you on your way. Generic prompts, generic results.
 
-The interesting stuff is already there. A 92-year-old great uncle who's a pub quiz champion. An irrational hatred of a specific celebrity. A hate-watch ritual every Saturday morning. The exhibition catalogue they're prouder of than anything else they've made.
+This is a **structured 8-phase process** that actually gets to know you first:
 
-These details get lost in "love to laugh" and "partner in crime."
+| Phase | What Happens |
+|-------|--------------|
+| [Setup](SKILL.md#phase-0-setup--framing) | Frame the process, understand your situation |
+| [Audit](SKILL.md#phase-1-profile-audit) | Score your current profile (skip if starting fresh) |
+| [Discovery](SKILL.md#phase-2-discovery-interview) | The big interview - find what actually makes you *you* |
+| [Reality Check](SKILL.md#phase-3-reality-check) | Honest market math - who are you competing for? |
+| [Photos](SKILL.md#phase-4-photo-strategy) | Evaluate, order, identify gaps |
+| [Copy](SKILL.md#phase-5-copy-creation) | Write prompts using *your* material, not templates |
+| [Settings](SKILL.md#phase-6-settings--setup) | Optimize visibility, hide the clutter |
+| [Implementation](SKILL.md#phase-7-implementation) | Put it live together |
+| [Algorithm](SKILL.md#phase-8-algorithm-strategy) | What to do in weeks 1-4 |
 
-This process pulls them out.
-
----
-
-## What We Actually Do
-
-### Phase 0: Setup
-Set expectations. Frame the process. Make it clear this isn't an interrogation — we're gathering ingredients to cook with. Nothing is mandatory, dictate answers if typing's a chore, skip anything you want.
-
-### Phase 1: Audit
-If you have a current profile, we score it. Photos, prompts, completeness, what it's actually signaling vs what you think it's signaling. Honest but kind. "Here's what's working, here's the opportunities."
-
-### Phase 2: Discovery
-The heart of it. We ask a lot of questions — work, interests, opinions, relationships, lifestyle, guilty pleasures, pet peeves, weird rituals. Looking for the specific stuff. The things that make you *you*. We won't use everything. We're finding where to lean in.
-
-### Phase 3: Reality Check
-Gentle market math. Who are you trying to attract? Is your age range realistic? Is your distance too narrow? Are your dealbreakers filtering out people you'd actually like? Honest conversation about strategy — quality over quantity, memorable to the right people.
-
-### Phase 4: Photos
-Evaluate what you have. Score each one. Identify gaps (workspace shot? full body? social proof?). Set the order — first photo has 10x the impact of everything else. If you need new photos, we'll tell you exactly what to shoot.
-
-### Phase 5: Copy
-Write the actual prompts and captions. Using your discovery material, not generic templates. Specific, hookable, filtered for the right people. Every element should start a conversation. 150 characters, every word earns its place.
-
-### Phase 6: Settings
-The stuff people forget. Distance, age range, dealbreakers, what's visible at the top of your profile. Hide the clutter (star signs, probably). Optimize for visibility.
-
-### Phase 7: Implementation
-We don't just hand you a document. We help you put it live. Photo order, copy-paste each prompt, settings adjustments, preview check, go live. Done together.
-
-### Phase 8: Algorithm Strategy
-Post-launch guidance. Daily activity, always comment (never empty likes), response timing, selectivity, what to expect in weeks 1-4.
+**Why it works:** The discovery phase is the key. Most advice is generic because it doesn't know you. This spends real time understanding your humor, opinions, relationships, weird rituals - then uses those as ingredients. Your 92-year-old great uncle who dominates pub quiz? That's going in the profile.
 
 ---
 
@@ -80,42 +59,82 @@ This isn't vibes. It's built on 45+ peer-reviewed sources.
 | Professional photos | **178% more matches** |
 | Most Compatible matches | **8x more likely to result in dates** |
 
-Signaling theory, algorithm mechanics, photo psychology, prompt effectiveness — it's all in `references/research-findings.md`.
+Full research: [`references/research-findings.md`](references/research-findings.md)
 
 ---
 
-## Installation
+## How to Use This
 
-### Claude Code
+### Option 1: Claude Desktop (Recommended)
 
-Drop into your skills directory:
+This is the smoothest way. Claude remembers the skill across all your conversations.
 
-```
-~/.claude/skills/hinge-profile-optimizer/
-├── SKILL.md
-└── references/
-    ├── research-findings.md
-    ├── audit-criteria.md
-    ├── discovery-questions.md
-    ├── copy-principles.md
-    ├── photo-guidelines.md
-    ├── hinge-prompts-current.md
-    └── hinge-settings.md
-```
+**Step 1: Download the files**
 
-Or install via SkillsMP once indexed.
+1. Click the green **Code** button at the top of this page
+2. Click **Download ZIP**
+3. Find the ZIP in your Downloads folder and unzip it (double-click on Mac, right-click → Extract on Windows)
+4. You now have a folder called `hinge-profile-optimizer-main`
 
-### Claude Desktop
+**Step 2: Add to Claude Desktop**
 
-1. Download this repo (Code → Download ZIP, or `git clone`)
-2. Open Claude Desktop
-3. Start a new project
-4. Add all the `.md` files to your project knowledge:
-   - `SKILL.md`
-   - Everything in `references/`
-5. Start chatting — Claude will have the full process
+1. Open **Claude Desktop** (the app, not the browser)
+2. Click the **⚙️ Settings** icon (bottom left)
+3. Click **Projects** in the sidebar
+4. Click **+ Create Project** and name it something like "Hinge Profile Help"
+5. Once inside your project, look for **Project Knowledge** or the **📎 Add Content** button
+6. Add these files from the folder you downloaded:
+   - `SKILL.md` (the main skill - add this first)
+   - Everything inside the `references/` folder (7 files)
 
-**Tip:** You can also just copy-paste `SKILL.md` and the reference files directly into a conversation, but adding to project knowledge means it persists across chats.
+**Step 3: Start chatting**
+
+Just say: *"Help me optimize my Hinge profile"*
+
+Claude now has the full process and will guide you through it.
+
+---
+
+### Option 2: Claude.ai in Browser
+
+Don't have Claude Desktop? You can do this directly at [claude.ai](https://claude.ai).
+
+**Step 1: Download the files** (same as above)
+
+1. Click the green **Code** button at the top of this page
+2. Click **Download ZIP**
+3. Unzip it
+
+**Step 2: Start a conversation**
+
+1. Go to [claude.ai](https://claude.ai) and start a new chat
+2. Click the **📎 attachment** icon (bottom of the chat box)
+3. Upload `SKILL.md` from the folder you downloaded
+4. Also upload the files from the `references/` folder
+
+**Step 3: Go**
+
+Tell Claude you want to optimize your Hinge profile. It'll take it from there.
+
+**Note:** Unlike Desktop projects, you'll need to re-upload the files if you start a new conversation. Desktop is better if you want to come back to this over multiple sessions.
+
+---
+
+### Option 3: Claude Code
+
+If you're already using Claude Code, you know what to do. Drop the skill into `~/.claude/skills/` or use `/plugin add`. Easy.
+
+---
+
+## Philosophy
+
+**You're not making someone more appealing. You're making them visible.**
+
+The interesting stuff is already there. A 92-year-old great uncle who's a pub quiz champion. An irrational hatred of a specific celebrity. A hate-watch ritual every Saturday morning. The exhibition catalogue they're prouder of than anything else they've made.
+
+These details get lost in "love to laugh" and "partner in crime."
+
+This process pulls them out.
 
 ---
 

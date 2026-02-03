@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <!-- Background -->
+  <rect width="400" height="200" fill="#fff"/>
+
+  <!-- Left Claude Bot (Original) -->
+  <g transform="translate(100, 100)">
+    <!-- Body -->
+    <rect x="-35" y="-40" width="70" height="80" rx="12" fill="#E07A38"/>
+    <!-- Face screen -->
+    <rect x="-25" y="-30" width="50" height="40" rx="6" fill="#1a1a1a"/>
+    <!-- Eyes -->
+    <circle cx="-10" cy="-15" r="5" fill="#fff"/>
+    <circle cx="10" cy="-15" r="5" fill="#fff"/>
+    <circle cx="-8" cy="-15" r="2.5" fill="#1a1a1a"/>
+    <circle cx="12" cy="-15" r="2.5" fill="#1a1a1a"/>
+    <!-- Smile -->
+    <path d="M-12 0 Q0 10 12 0" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <!-- Antenna -->
+    <line x1="0" y1="-40" x2="0" y2="-55" stroke="#E07A38" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="0" cy="-58" r="5" fill="#E07A38"/>
+    <!-- Left arm reaching out -->
+    <rect x="35" y="-10" width="30" height="12" rx="6" fill="#E07A38"/>
+    <!-- Feet -->
+    <rect x="-28" y="40" width="20" height="10" rx="5" fill="#E07A38"/>
+    <rect x="8" y="40" width="20" height="10" rx="5" fill="#E07A38"/>
+  </g>
+
+  <!-- Right Claude Bot (with lipstick & blush) -->
+  <g transform="translate(300, 100)">
+    <!-- Body -->
+    <rect x="-35" y="-40" width="70" height="80" rx="12" fill="#E07A38"/>
+    <!-- Face screen -->
+    <rect x="-25" y="-30" width="50" height="40" rx="6" fill="#1a1a1a"/>
+    <!-- Blush circles -->
+    <circle cx="-18" cy="-2" r="6" fill="#ff9999" opacity="0.5"/>
+    <circle cx="18" cy="-2" r="6" fill="#ff9999" opacity="0.5"/>
+    <!-- Eyes with lashes -->
+    <circle cx="-10" cy="-15" r="5" fill="#fff"/>
+    <circle cx="10" cy="-15" r="5" fill="#fff"/>
+    <circle cx="-8" cy="-15" r="2.5" fill="#1a1a1a"/>
+    <circle cx="12" cy="-15" r="2.5" fill="#1a1a1a"/>
+    <!-- Eyelashes -->
+    <path d="M-16 -18 L-18 -23" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M-13 -20 L-14 -25" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M-7 -20 L-6 -25" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M4 -20 L3 -25" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M7 -20 L6 -25" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M16 -18 L18 -23" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Lipstick smile -->
+    <path d="M-12 2 Q0 12 12 2" stroke="#ff4d6d" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <!-- Antenna with bow -->
+    <line x1="0" y1="-40" x2="0" y2="-55" stroke="#E07A38" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="0" cy="-58" r="5" fill="#E07A38"/>
+    <!-- Bow on antenna -->
+    <path d="M-12 -58 Q-6 -65 0 -58 Q6 -65 12 -58 Q6 -51 0 -58 Q-6 -51 -12 -58" fill="#ff4d6d"/>
+    <!-- Left arm reaching out -->
+    <rect x="-65" y="-10" width="30" height="12" rx="6" fill="#E07A38"/>
+    <!-- Feet -->
+    <rect x="-28" y="40" width="20" height="10" rx="5" fill="#E07A38"/>
+    <rect x="8" y="40" width="20" height="10" rx="5" fill="#E07A38"/>
+  </g>
+
+  <!-- Holding hands (connected in middle) -->
+  <rect x="165" y="90" width="70" height="12" rx="6" fill="#E07A38"/>
+
+  <!-- Heart above them -->
+  <path d="M200 35 C200 25, 185 20, 185 35 C185 50, 200 60, 200 60 C200 60, 215 50, 215 35 C215 20, 200 25, 200 35" fill="#ff4d6d"/>
+
+  <!-- Small hearts -->
+  <path d="M150 55 C150 52, 146 50, 146 53 C146 57, 150 60, 150 60 C150 60, 154 57, 154 53 C154 50, 150 52, 150 55" fill="#ff9999"/>
+  <path d="M250 55 C250 52, 246 50, 246 53 C246 57, 250 60, 250 60 C250 60, 254 57, 254 53 C254 50, 250 52, 250 55" fill="#ff9999"/>
+</svg>
