@@ -33,12 +33,12 @@ This is a **structured 8-phase process** that actually gets to know you first:
 | Phase | What Happens |
 |-------|--------------|
 | [Setup](SKILL.md#phase-0-setup--framing) | Frame the process, understand your situation |
-| [Audit](SKILL.md#phase-1-profile-audit) | Score your current profile (skip if starting fresh) |
-| [Discovery](SKILL.md#phase-2-discovery-interview) | The big interview - find what actually makes you *you* |
+| [Audit](references/audit-criteria.md) | Score your current profile (skip if starting fresh) |
+| [Discovery](references/discovery-questions.md) | The big interview - find what actually makes you *you* |
 | [Reality Check](SKILL.md#phase-3-reality-check) | Honest market math - who are you competing for? |
-| [Photos](SKILL.md#phase-4-photo-strategy) | Evaluate, order, identify gaps |
-| [Copy](SKILL.md#phase-5-copy-creation) | Write prompts using *your* material, not templates |
-| [Settings](SKILL.md#phase-6-settings--setup) | Optimize visibility, hide the clutter |
+| [Photos](references/photo-guidelines.md) | Evaluate, order, identify gaps |
+| [Copy](references/copy-principles.md) | Write prompts using *your* material, not templates |
+| [Settings](references/hinge-settings.md) | Optimize visibility, hide the clutter |
 | [Implementation](SKILL.md#phase-7-implementation) | Put it live together |
 | [Algorithm](SKILL.md#phase-8-algorithm-strategy) | What to do in weeks 1-4 |
 
