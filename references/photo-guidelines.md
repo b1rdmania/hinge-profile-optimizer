@@ -183,15 +183,20 @@ If they need new photos, suggest:
 
 ## Caption Strategy
 
-Every photo with a prompt should have actual text.
+On Hinge, every photo can have a prompt and caption. This means photo captions are roughly half of someone's total profile text. Leaving them empty wastes half your real estate — and on an app where text quality matters more than on purely swipe-based platforms (Sumter et al., 2017), that's a significant missed opportunity.
+
+**The job of a photo caption:** The photo shows what you look like. The caption shows who you are. A photo of someone at a restaurant tells you nothing. A caption that says "I have opinions about this ramen" tells you something about their personality and gives you something to say.
 
 **Photo captions should:**
-- Add context the photo doesn't show
-- Create conversation hooks
-- Show personality
-- Be concise (photo is doing most of the work)
+- Add context the photo can't show (personality, humor, opinion)
+- Create conversation hooks — something someone could easily comment on
+- Show personality in the person's actual voice
+- Be concise (the photo is doing the visual work; the caption adds the human layer)
 
 **Don't:**
-- Leave prompts empty (defeats the purpose)
-- Just describe what's in the photo
-- Be generic ("Good times!")
+- Leave prompts empty (completeness affects both algorithm and perception)
+- Just describe what's in the photo ("Me at the beach" — the viewer can see that)
+- Be generic ("Good times!" — a cheap signal that says nothing)
+- Waste the caption on a location tag alone — the location feature handles that
+
+**The research context:** OkCupid data showed that messages referencing specific profile content got 30-40% more replies. A good photo caption gives someone that specific thing to reference. "Great photo" is a generic compliment; "Wait, is that the ramen place on Kingsland Road?" is a real conversation. The caption creates the hook that makes the photo a conversation starter instead of just a picture.

@@ -2,12 +2,26 @@
 
 Use conversationally, 3-4 questions per batch. Chase interesting threads. Skip what's not relevant.
 
+## Why This Interview Works
+
+The questions below look random. They're not. The interview is designed around what the research says makes profiles effective:
+
+**We ask across many topics** because self-disclosure research (Gibbs et al., 2006) shows that breadth — covering humor, values, lifestyle, work, relationships — predicts higher attractiveness ratings. A profile that shows multiple dimensions of a person beats one that's all about one thing. We're gathering material for breadth.
+
+**We push for specifics** because Toma & Hancock (2012) found that specific, concrete language is a linguistic marker of honesty, while vague language signals deception. Most people's first instinct is to generalise ("I love music"). Our job is to get past that to the real stuff ("Jazz Cafe on a weeknight"). Every question is angled to surface detail, not category.
+
+**We're mining for costly signals** — things that are hard to fake, specific to this person, and credible because they require actual experience (Donath, 2007). The 92-year-old great uncle, the Saturday Kitchen hate-watch, the Timothée Chalamet opinion — these can't be mass-produced. Anyone can say "I love to laugh." Nobody else has these exact details.
+
+**We batch 3-4 questions** because it feels like a conversation, not an interrogation. Sprecher et al. (2013) found that self-disclosure works best when it feels natural and reciprocal. Asking 20 questions at once kills the flow. Asking 3-4, following the interesting thread, then asking 3-4 more creates the right rhythm.
+
+**We're looking for the Whitty balance** — Whitty (2008) found that the most effective profiles balance three tensions: idealisation vs authenticity, self-promotion vs warmth, distinctiveness vs appeal. Every question is testing: what's true about this person (authenticity) that's also interesting (distinctiveness) and relatable (appeal) and puts them in a good light (idealisation)?
+
 ---
 
 ## Framing
 
 Before diving in:
-> "I'll ask a bunch of questions - we won't use everything. Just gathering ingredients to see where we can lean in. Skip anything you want."
+> "I'll ask a bunch of questions — we won't use everything. Just gathering ingredients to see what we can build around. Skip anything you want."
 
 ---
 
@@ -163,30 +177,32 @@ When something interesting comes up:
 
 ## What You're Listening For
 
-**Unique hooks:**
+Each category maps to what the research says makes profiles work:
+
+**Unique hooks** — The von Restorff effect: distinctive items are remembered, common ones forgotten. In a stack of 100 profiles, generic = invisible. You're listening for the thing nobody else could claim.
 - Anything no one else would have
 - Unusual relationships, hobbies, opinions
 - Specific stories
 
-**Status signals (that aren't braggy):**
+**Costly signals** — Donath (2007): signals that are hard to fake are credible. You're listening for things that demonstrate qualities rather than claim them. "I make exhibition catalogues for galleries" demonstrates creativity. "I'm creative" claims it.
 - Professional achievements framed humbly
-- Evidence of interesting life
-- Skills, knowledge, access
+- Evidence of an interesting life (not stated, but shown)
+- Skills, knowledge, or access that's specific and verifiable
 
-**Warmth markers:**
-- Family connections
+**Warmth markers** — Whitty (2008): profiles need warmth alongside distinctiveness. Pure edge reads as bitter. Warmth grounds a profile and signals relationship potential.
+- Family connections (especially specific/unusual ones)
 - Care for others
-- Genuine enthusiasm
+- Genuine enthusiasm (not performed enthusiasm)
 
-**Personality markers:**
-- Humor style
-- Strong opinions
+**Personality markers** — Bressler & Balshine (2006): demonstrated humor is a signal of intelligence. Strong opinions are costly signals (they risk alienating people, which is what makes them credible). You're listening for the person's actual voice.
+- Humor style (do they produce humor naturally in conversation?)
+- Strong opinions (the irrational hatreds are gold)
 - Quirks and pet peeves
 
-**Cultural specificity:**
+**Cultural specificity** — Fiore & Donath (2005): homophily means people seek similarity. Specific cultural references sort for compatible matches. You're listening for the insider knowledge that would resonate with their target market.
 - Venues, neighborhoods, artists, scenes
-- Insider knowledge
-- Things their target market would recognize
+- Insider references
+- Things their ideal match would recognise and light up at
 
 ---
 

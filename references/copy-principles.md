@@ -38,6 +38,8 @@ Generic statements are forgettable and say nothing. Specific details show person
 
 Every prompt answer should make it easy for someone to start a conversation.
 
+**Why this works (research):** OkCupid's data (Rudder, *Dataclysm*, 2014) showed that messages referencing specific profile content had reply rates 30-40% higher than generic openers. Hinge's own data confirms the pattern: comments with likes significantly outperform bare likes. The mechanism is simple — a prompt that gives someone something to say gets comments; a prompt that's a closed statement doesn't. And on Hinge, comments are the primary signal of genuine interest.
+
 **Good hooks invite:**
 - Questions ("Wait, why do you hate him?")
 - Shared opinions ("Oh my god I also hate that")

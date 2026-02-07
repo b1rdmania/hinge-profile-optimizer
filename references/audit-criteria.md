@@ -146,15 +146,20 @@ This section uses signaling theory (Donath, 2007) — the idea that some profile
 
 ## Competitive Position
 
+This matters more than most people realise. Bruch & Newman (2018) found that attention on dating apps follows a power law — the top profiles receive 10-100x more messages than median ones. Hitsch et al. (2010) found that users with the most desirable profiles are also the most selective and the most sensitive to profile quality. The people you want to attract are the people most likely to notice the difference between a good profile and a forgettable one.
+
 ### Target Market Alignment
 - Who are they trying to attract?
-- Does profile appeal to that demographic?
-- What would make target market swipe right?
-- What's currently missing?
+- Does the profile appeal to that demographic specifically, or is it aimed at everyone (which means no one)?
+- What would make their target market stop scrolling?
+- What cultural markers, tone, or references would resonate with that specific audience?
+- What's currently missing that their target market would want to see?
 
 ### Differentiation
 - What makes this profile different from thousands of others?
-- Any unique elements? (If none, this is a problem)
+- Does it contain any costly signals (Donath, 2007) — things that are specific, hard to fake, and demonstrate actual qualities?
+- Or is it all cheap signals — generic claims, basic selfies, vague descriptors?
+- Apply the 10,000 people test: could 10,000 other people have this exact profile? If yes, it's invisible.
 - Would someone remember this profile tomorrow?
 
 ---
