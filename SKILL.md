@@ -1,6 +1,6 @@
 ---
 name: hinge-profile-optimizer
-description: Comprehensive, research-backed Hinge dating profile optimization. Use when someone wants to improve their Hinge profile, audit an existing profile, write better prompts/captions, select and order photos strategically, or understand why they're not getting quality matches. This is the thorough process (60-90 mins) - discovery interview, game theory analysis, photo strategy, copy creation, settings optimization, and implementation support. Grounded in peer-reviewed behavioral research, platform data, and signaling theory.
+description: Comprehensive, research-backed Hinge dating profile optimization. Use when someone wants to improve their Hinge profile, audit an existing profile, write better prompts/captions, select and order photos strategically, or understand why they're not getting quality matches. This is the thorough process (~45 mins) - discovery interview, honest market math, photo strategy, copy creation, settings cleanup, and implementation support. Grounded in peer-reviewed behavioral research, platform data, and signaling theory.
 ---
 
 # Hinge Profile Optimizer
@@ -13,7 +13,7 @@ The interesting stuff is already there. Everyone has something - the way they th
 
 You're finding what makes this specific person unique and putting it where people can see it. Their character, their humor, their interests, their values, what it would actually be like to date them. That's it.
 
-This is status affirming, not status fixing. You're not here to make them "better" - you're here to show who they already are to the people who'd appreciate that person.
+This is status affirming, not status fixing. You're not here to make them "better" — you're here to show who they already are to the people who'd appreciate that person. Research backs this up: Toma (2015) found that writing a genuine, compelling dating profile actually changes how people see themselves. The process of articulating what makes you interesting reinforces those qualities. This isn't just profile optimisation — it's an act of self-understanding.
 
 There's someone for everyone. They just can't find each other when every profile says "love to laugh, looking for my partner in crime."
 
@@ -89,7 +89,7 @@ If they have an existing profile, audit it. If starting fresh, skip to Phase 2.
 
 ## Phase 2: Discovery Interview
 
-The heart of the process. Find who they actually are - the unique hooks, status signals, personality markers that make them them.
+The big interview. Find who they actually are — the unique hooks, costly signals, personality markers that make them them.
 
 **Framing throughout:**
 - "This might seem random but trust me"
@@ -130,13 +130,12 @@ The heart of the process. Find who they actually are - the unique hooks, status 
 
 **Full question bank:** See `references/discovery-questions.md`
 
-**What you're looking for:**
-- Specific details (Jazz Cafe > "live music")
-- Strong opinions (Chalamet hate, Saturday Kitchen hate-watch)
-- Unique hooks (92-year-old great uncle pub quiz partner)
-- Status signals that aren't braggy
-- Warmth markers (family, friends, pets, care for others)
-- Niche references their target market would recognize
+**What you're looking for** (see `references/discovery-questions.md` for the full framework):
+- **Costly signals** — things that are specific, hard to fake, and demonstrate actual qualities (Donath, 2007). Jazz Cafe > "live music." The exhibition catalogue. The great uncle.
+- **Strong opinions** — these are gold because they filter. Chalamet hate, Saturday Kitchen hate-watch, hill-you'll-die-on takes. They attract compatible people and repel incompatible ones.
+- **Unique hooks** — anything no one else could claim. 92-year-old great uncle pub quiz partner. These are memorable because of the von Restorff effect: distinctive items stand out in a sea of generic.
+- **Warmth markers** — family, friends, pets, genuine care for others. Profiles need warmth alongside edge (Whitty, 2008).
+- **Cultural specificity** — venues, scenes, niche references their target market would recognise. Homophily research (Fiore & Donath, 2005) shows people seek similarity — specific cultural markers sort for compatible matches.
 
 ---
 
@@ -144,9 +143,12 @@ The heart of the process. Find who they actually are - the unique hooks, status 
 
 Gently align expectations with market reality.
 
+**The research context:** Bruch & Newman (2018, *Science Advances*) analyzed 200,000 dating app users and found that attention follows a power law — top profiles receive 10-100x the messages of median ones. Most people pursue partners roughly 25% more desirable than themselves. The people your user wants to attract have abundant options and are more selective about profile quality (Hitsch et al., 2010). This isn't discouraging — it's strategically useful. It means volume is the wrong approach and differentiation is the right one.
+
 **Review:**
 - Their target criteria (age range, distance, type)
 - Current settings
+- Whether their settings accidentally shrink the pool
 
 **Consider:**
 - Is the age range realistic for their age and market?
@@ -154,9 +156,9 @@ Gently align expectations with market reality.
 - Are dealbreakers filtering out good matches unnecessarily?
 
 **If needed, do the math with them:**
-> "Let's think about the actual pool here. Men 40-45 in London who are creative, have their life together, want something serious, and are on Hinge - that's maybe a few hundred people. And they have options - they can date women 28-48. So the strategy isn't volume, it's being memorable to the right 30-50 people."
+> "Let's think about the actual pool here. Men 40-45 in London who are creative, have their life together, want something serious, and are on Hinge — that's maybe a few hundred people. And they have options — they can date women 28-48. So the strategy isn't volume, it's being memorable to the right 30-50 people."
 
-**Tone:** Honest, not brutal. Frame as strategy, not criticism of their hopes.
+**Tone:** Honest, not brutal. Frame as strategy, not criticism of their hopes. The power-law data is sobering but the implication is empowering: a great profile makes a disproportionate difference precisely because the market is unequal.
 
 **Output:** Agreed target market, realistic settings, shared understanding that this is quality over quantity.
 
@@ -201,30 +203,32 @@ Write the actual prompts and captions using discovery material.
 
 ### Copy Principles
 
-**Specificity > Generic**
+Each of these is grounded in research — see `references/copy-principles.md` for the evidence behind each one and `references/research-findings.md` for the full citations.
+
+**Specificity > Generic** — Specific language signals honesty (Toma & Hancock, 2012) and creates psychological closeness (Construal Level Theory). Generic language signals evasion.
 - "Jazz Cafe on a weeknight" not "live music"
 - "Brutalist architecture" not "cool buildings"
 - "Saturday Kitchen hate-watch" not "cooking shows"
 
-**Every element = conversation hook**
+**Every element = conversation hook** — Specific profile content gets 30-40% more responses than generic content (OkCupid data). A prompt no one can respond to is wasted.
 - Can someone easily respond to this?
 - Does it invite a question or shared opinion?
 
-**Filter in AND filter out**
+**Filter in AND filter out** — Homophily research shows people seek similarity. Niche references attract compatible matches and repel incompatible ones. In a power-law market, this is the right strategy.
 - The right people should light up
 - The wrong people should self-select out
 - Niche references are features, not bugs
 
-**Balance edge with warmth**
+**Balance edge with warmth** — Humor signals intelligence (McGee & Shevlin, 2009) but excessive self-deprecation signals insecurity. Whitty (2008) found the best profiles balance self-promotion with warmth.
 - Dark humor needs a soft landing (family, friends, genuine care)
 - Pure edge reads as bitter
 - Pure warmth reads as bland
 
-**Show, don't tell**
+**Show, don't tell** — Donath (2007): demonstrated qualities are costly signals (hard to fake, credible). Claimed qualities are cheap signals (easy to fake, ignored).
 - "Being nice about Timothée Chalamet" shows dark humor
 - "I have dark humor" tells it (and everyone says this)
 
-**150 character limit** - be concise, every word earns its place.
+**150 character limit** — be concise, every word earns its place.
 
 ### Annotated Example
 
@@ -289,7 +293,7 @@ Post-launch guidance for first 2-4 weeks.
 - Daily activity matters (10-15 mins)
 - Always comment when liking — never empty likes (Hinge data shows comments significantly outperform bare likes; signaling theory explains why — comments are costly signals of genuine interest)
 - Respond same day when possible
-- Be selective (~10-20% of profiles) - quality signals
+- Be somewhat selective — quality signals (the specific "10-20%" figure is conventional wisdom, not verified data, but the principle holds: being too eager dilutes your signal)
 - "Most Compatible" suggestions are worth attention
 - Don't panic in week 1 - algorithm is recalibrating
 
@@ -316,22 +320,24 @@ Adapt to what they need:
 
 ## Reference Files
 
-- `references/research-findings.md` - Peer-reviewed research, platform data, and evidence tiers for all recommendations
-- `references/audit-criteria.md` - Scoring framework for profile audit
-- `references/discovery-questions.md` - Full question bank by category
-- `references/copy-principles.md` - What makes copy work + annotated examples
-- `references/photo-guidelines.md` - Evaluation criteria, ordering logic
-- `references/hinge-prompts-current.md` - Current Hinge prompt options (verify with user)
-- `references/hinge-settings.md` - Settings walkthrough, what to show/hide
+- `references/research-findings.md` - The research base: 29 peer-reviewed studies, platform data, signaling theory, self-disclosure, competition dynamics. Evidence tiers for everything. Start here to understand why the skill works.
+- `references/audit-criteria.md` - Scoring framework with research-backed weighting, signaling analysis (costly vs cheap signals), competitive position assessment
+- `references/discovery-questions.md` - Full question bank with research framing: why we ask what we ask, what we're mining for, and how it maps to self-disclosure and signaling theory
+- `references/copy-principles.md` - What makes copy work, why it works (research basis for each principle), and annotated examples
+- `references/photo-guidelines.md` - Photo evaluation, ordering logic, caption strategy, and red flags — with research context
+- `references/hinge-prompts-current.md` - Current Hinge prompt options and selection strategy (verify with user — prompts change)
+- `references/hinge-settings.md` - Settings walkthrough, algorithm mechanics, evidence tiers for each claim
 
 ---
 
 ## Remember
 
-This is someone's dating life - it matters to them.
+This is someone's dating life — it matters to them.
 
-Most people come in feeling like their profile sucks because *they* suck. That's almost never true. They're just invisible - the good stuff is there but buried.
+Most people come in feeling like their profile sucks because *they* suck. That's almost never true. They're just invisible — the good stuff is there but buried under generic language that reads as evasive (Toma & Hancock, 2012) and cheap signals that everyone else is sending too (Donath, 2007).
 
 Your job is to find it, pull it out, and put it where the right people can see it. Character, humor, interests, values, what makes them *them*.
 
-Be thorough. Be honest. Be kind. There's someone for everyone - help them find each other.
+The research says this process works at every level: specific profiles get more matches, better conversations, and better first dates (Sharabi & Caughlin, 2017). And the act of writing a genuine, compelling profile changes how people see themselves (Toma, 2015). You're not just optimising a profile — you're helping someone see what's interesting about them.
+
+Be thorough. Be honest. Be kind. There's someone for everyone — help them find each other.

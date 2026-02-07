@@ -1,6 +1,6 @@
 # Hinge Dating Profile Optimizer
 
-**A Claude Skill for Claude Desktop & Claude.ai**
+**A Claude Skill — research-backed profile optimization in 45 minutes**
 
 <p align="center">
   <img src="claude-bots-love.svg" alt="Two Claude bots in love" width="280">
@@ -72,14 +72,15 @@ This isn't vibes. It's grounded in published research from actual journals, data
 
 ### Option 1: Claude Desktop (Recommended)
 
-This is the smoothest way. Claude remembers the skill across all your conversations.
+Best option for most people. Once installed, Claude keeps the skill loaded across every conversation — you can come back tomorrow, next week, or after a bad date without re-uploading anything.
 
 **Step 1: Download the files**
 
 1. Click the green **Code** button at the top of this page
-2. Click **Download ZIP**
-3. Find the ZIP in your Downloads folder and unzip it (double-click on Mac, right-click → Extract on Windows)
-4. You now have a folder called `hinge-profile-optimizer-main`
+2. Click **Local**
+3. Click **Download ZIP**
+4. Find the ZIP in your Downloads folder and unzip it (double-click on Mac, right-click → Extract on Windows)
+5. You now have a folder called `hinge-profile-optimizer-main`
 
 **Step 2: Add to Claude Desktop**
 
@@ -89,7 +90,7 @@ This is the smoothest way. Claude remembers the skill across all your conversati
 4. Click **+ Create Project** and name it something like "Hinge Profile Help"
 5. Once inside your project, look for **Project Knowledge** or the **📎 Add Content** button
 6. Add these files from the folder you downloaded:
-   - `SKILL.md` (the main skill - add this first)
+   - `SKILL.md` (the main skill — add this first)
    - Everything inside the `references/` folder (7 files)
 
 **Step 3: Start chatting**
@@ -100,34 +101,28 @@ Claude now has the full process and will guide you through it.
 
 ---
 
-### Option 2: Claude.ai in Browser
+### Option 2: SkillsMP
 
-Don't have Claude Desktop? You can do this directly at [claude.ai](https://claude.ai).
-
-**Step 1: Download the files** (same as above)
-
-1. Click the green **Code** button at the top of this page
-2. Click **Download ZIP**
-3. Unzip it
-
-**Step 2: Start a conversation**
-
-1. Go to [claude.ai](https://claude.ai) and start a new chat
-2. Click the **📎 attachment** icon (bottom of the chat box)
-3. Upload `SKILL.md` from the folder you downloaded
-4. Also upload the files from the `references/` folder
-
-**Step 3: Go**
-
-Tell Claude you want to optimize your Hinge profile. It'll take it from there.
-
-**Note:** Unlike Desktop projects, you'll need to re-upload the files if you start a new conversation. Desktop is better if you want to come back to this over multiple sessions.
+This skill is listed on [SkillsMP](https://skillsmp.com/skills/b1rdmania-hinge-profile-optimizer-skill-md). One-click install if you're already on the platform.
 
 ---
 
-### Option 3: Claude Code
+### Option 3: Claude.ai in Browser
 
-If you're already using Claude Code, you know what to do. Drop the skill into `~/.claude/skills/` or use `/plugin add`. Easy.
+Don't have Claude Desktop? You can do this directly at [claude.ai](https://claude.ai).
+
+1. Download the files using the **Code → Local → Download ZIP** button above
+2. Start a new chat at [claude.ai](https://claude.ai)
+3. Click the **📎 attachment** icon and upload `SKILL.md` plus the files from the `references/` folder
+4. Tell Claude you want to optimize your Hinge profile
+
+**Note:** You'll need to re-upload the files each time you start a new conversation. Desktop (Option 1) is better if you want to come back to this over multiple sessions.
+
+---
+
+### Option 4: Claude Code
+
+If you're already using Claude Code, you know what to do.
 
 ---
 
