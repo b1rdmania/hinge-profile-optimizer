@@ -6,7 +6,7 @@ How to evaluate, select, and order photos.
 
 ## First Photo (Most Critical)
 
-First photo has **10x the impact** of bio text. This is where most people decide to keep looking or move on.
+Photos dominate swipe decisions — research consistently shows they're the primary factor in whether someone keeps looking or moves on (Tyson et al., 2016; Brand et al., 2012). First photo matters most because profiles receive only seconds of attention, and most of that time is spent on photos.
 
 ### Requirements
 - ☐ Face clearly visible (no sunglasses, not too distant)
@@ -98,11 +98,11 @@ For each photo, articulate:
 ## Red Flags to Eliminate
 
 ### Immediate Deletes
-- **Mirror selfies** (78% turn-off, signals low effort)
+- **Mirror selfies** (widely cited as a top turn-off in platform surveys and dating coaching — signals low effort and low self-awareness)
 - **Bathroom photos** (weird, low effort)
 - **Shirtless gym pics** (unless that's explicitly their target)
-- **Fish photos** (cliché, polarizing)
-- **Heavily filtered** (signals hiding something)
+- **Fish photos** (cliche, polarizing)
+- **Heavily filtered** (signals hiding something — Toma & Hancock, 2010 found less attractive daters are more likely to enhance photos, so heavy filtering reads as deception even if that's not the intent)
 
 ### Probably Delete
 - All selfies (suggests no friends to take photos)
@@ -171,13 +171,13 @@ If they need new photos, suggest:
 
 ## Ordering Logic
 
-**Front-load strength:** Best photos first, algorithm and humans both prioritize early photos.
+**Front-load strength:** Best photos first — both algorithm and human attention prioritize early photos. Users spend seconds on a profile (Brand et al., 2012), so the first 1-2 images carry disproportionate weight.
 
-**Variety:** Each photo should add something different.
+**Variety:** Each photo should add something different. Self-disclosure research (Gibbs et al., 2006) shows that breadth across multiple dimensions predicts higher attractiveness ratings — photos should cover different aspects of who this person is.
 
-**Story arc:** Photos together should give sense of who this person is and what their life is like.
+**Story arc:** Photos together should give sense of who this person is and what their life is like. This maps to the "warranting" principle (Ellison et al., 2006) — multiple specific, consistent signals build credibility.
 
-**End strong:** Last photo should be memorable - humor, personality, conversation starter.
+**End strong:** Last photo should be memorable — humor, personality, conversation starter. The von Restorff effect means distinctive elements are remembered; closing with something unexpected creates lasting impression.
 
 ---
 

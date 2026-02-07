@@ -1,6 +1,6 @@
 # Copy Principles
 
-What makes profile copy work, with annotated examples.
+What makes profile copy work, with annotated examples. These principles aren't just style preferences — they're grounded in research on how people evaluate dating profiles.
 
 ---
 
@@ -12,6 +12,8 @@ Profile copy should:
 3. Attract the right people AND repel the wrong ones (filtering)
 4. Be memorable (stand out from thousands of generic profiles)
 
+**The research basis:** Creative, original profiles are independently rated as more intelligent, funnier, and more attractive — even controlling for photos (Fiore et al., 2008). On relationship-focused apps like Hinge, text quality matters more than on purely swipe-based platforms (Sumter et al., 2017). And in a market where top profiles receive 10-100x the attention of median ones (Bruch & Newman, 2018), differentiation is survival.
+
 ---
 
 ## Principles
@@ -19,6 +21,8 @@ Profile copy should:
 ### 1. Specificity > Generic
 
 Generic statements are forgettable and say nothing. Specific details show personality and create hooks.
+
+**Why this works (research):** Toma & Hancock (2012) found that truthful, authentic profiles use more specific, concrete, sensory language — while deceptive profiles default to vague, abstract phrasing. Readers unconsciously detect this: specificity signals honesty. Separately, Construal Level Theory (Trope & Liberman, 2010) shows that concrete language creates psychological closeness — "Jazz Cafe on a weeknight" makes you feel like you're there, while "live music" keeps you at a distance. And Hitsch et al. (2010) showed that specific, verifiable lifestyle details produce significantly higher contact rates.
 
 | Generic (Bad) | Specific (Good) |
 |---------------|-----------------|
@@ -49,6 +53,8 @@ Every prompt answer should make it easy for someone to start a conversation.
 
 The goal isn't maximum likes - it's the right likes.
 
+**Why this works (research):** Strong homophily effects in dating — people preferentially contact those similar on education, cultural tastes, and lifestyle markers (Fiore & Donath, 2005). Specific cultural references function as sorting mechanisms: insiders recognize them and feel affinity, while outsiders self-select out. In a power-law market where quality matches have abundant options (Bruch & Newman, 2018), you don't need volume — you need the right 30-50 people to remember you.
+
 Good copy should:
 - Make ideal matches think "yes, this person gets it"
 - Make wrong matches think "not for me" (and that's good)
@@ -64,6 +70,8 @@ Good copy should:
 All edge = reads as bitter, negative, hard to be around
 All warmth = reads as bland, generic, forgettable
 
+**Why this works (research):** Humor significantly increases perceived attractiveness and is read as a signal of intelligence and social competence (McGee & Shevlin, 2009). But excessive self-deprecation reduces perceived confidence (Lundy, Tan & Cunningham, 1998). Self-disclosure research (Gibbs et al., 2006) shows the most effective profiles balance multiple dimensions — the optimal self-disclosure is moderate depth across breadth of topics. Edge (humor, opinions) signals personality; warmth (family, genuine care) signals relationship potential. You need both.
+
 **The formula:** Dark humor or strong opinions PLUS genuine warmth markers
 
 **Warmth markers:**
@@ -76,6 +84,8 @@ All warmth = reads as bland, generic, forgettable
 ### 5. Show, Don't Tell
 
 Stating a quality is weak. Demonstrating it is strong.
+
+**Why this works (research):** This maps directly to signaling theory. Donath (2007) distinguishes costly signals (hard to fake, therefore credible) from cheap signals (easy to fake, therefore ignored). Writing "I have dark humor" is a cheap signal — anyone can claim it. Writing "Being nice about Timothée Chalamet" is a costly signal — you have to actually be witty to produce it. Gibbs et al. (2006) confirmed this experimentally: profiles demonstrating personality through specific examples beat trait-adjective lists on honesty ratings, appeal, and contact rates.
 
 | Telling (Weak) | Showing (Strong) |
 |----------------|------------------|

@@ -1,6 +1,6 @@
 ---
 name: hinge-profile-optimizer
-description: Comprehensive, research-backed Hinge dating profile optimization. Use when someone wants to improve their Hinge profile, audit an existing profile, write better prompts/captions, select and order photos strategically, or understand why they're not getting quality matches. This is the thorough process (60-90 mins) - discovery interview, game theory analysis, photo strategy, copy creation, settings optimization, and implementation support. Based on 45+ peer-reviewed sources on dating app behavior.
+description: Comprehensive, research-backed Hinge dating profile optimization. Use when someone wants to improve their Hinge profile, audit an existing profile, write better prompts/captions, select and order photos strategically, or understand why they're not getting quality matches. This is the thorough process (60-90 mins) - discovery interview, game theory analysis, photo strategy, copy creation, settings optimization, and implementation support. Grounded in peer-reviewed behavioral research, platform data, and signaling theory.
 ---
 
 # Hinge Profile Optimizer
@@ -74,7 +74,7 @@ If they have an existing profile, audit it. If starting fresh, skip to Phase 2.
 **Request:** Screenshots of current profile - all photos, prompts, settings.
 
 **Evaluate against:**
-- First photo (10x impact - clear face, good lighting, genuine expression?)
+- First photo (dominates swipe decisions — clear face, good lighting, genuine expression?)
 - Photo variety (solo, social, full body, context/activity?)
 - Red flags (mirror selfies, group confusion, sunglasses hiding face, bathroom pics)
 - Prompt specificity (specific details vs generic statements)
@@ -175,7 +175,7 @@ Evaluate what they have, identify gaps, set order.
 - Solo or group? (if group, are they obviously identifiable?)
 - What does it signal about lifestyle/personality?
 
-**First photo matters most** - 10x impact. Must be: clear face, good lighting, genuine expression, solo.
+**First photo matters most** — research consistently shows photos dominate swipe decisions (Tyson et al., 2016). Must be: clear face, good lighting, genuine expression, solo.
 
 **Ideal mix:**
 1. Strong opener (clear face, warmth)
@@ -287,7 +287,7 @@ Post-launch guidance for first 2-4 weeks.
 
 **Key points:**
 - Daily activity matters (10-15 mins)
-- Always comment when liking - never empty likes (2x more effective)
+- Always comment when liking — never empty likes (Hinge data shows comments significantly outperform bare likes; signaling theory explains why — comments are costly signals of genuine interest)
 - Respond same day when possible
 - Be selective (~10-20% of profiles) - quality signals
 - "Most Compatible" suggestions are worth attention
@@ -316,7 +316,7 @@ Adapt to what they need:
 
 ## Reference Files
 
-- `references/research-findings.md` - 45+ sources on dating app behavior, condensed
+- `references/research-findings.md` - Peer-reviewed research, platform data, and evidence tiers for all recommendations
 - `references/audit-criteria.md` - Scoring framework for profile audit
 - `references/discovery-questions.md` - Full question bank by category
 - `references/copy-principles.md` - What makes copy work + annotated examples

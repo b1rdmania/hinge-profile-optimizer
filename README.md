@@ -16,15 +16,15 @@ This skill finds it and puts it where people can see it.
 
 ---
 
-## ⏱️ Time Investment
+## Time
 
-**This takes 45 minutes.**
+**45 minutes.**
 
 Not a quick fix. Not "5 tips for better prompts."
 
-This is the full process: research-backed audit, proper discovery interview, strategic photo selection, copy that sounds like you, settings optimization, and implementation support.
+This is the full process: honest audit, proper interview, photo strategy, copy that sounds like you, settings cleanup, and help putting it live.
 
-Strap in. It's a small investment to meet your life partner. Or your weekend 9/10 hookup. We don't judge.
+It's a small time cost to meet your life partner. Or your weekend 9/10 hookup. We don't judge.
 
 ---
 
@@ -46,24 +46,25 @@ This is a **structured 8-phase process** that actually gets to know you first:
 | [Implementation](SKILL.md#phase-7-implementation) | Put it live together |
 | [Algorithm](SKILL.md#phase-8-algorithm-strategy) | What to do in weeks 1-4 |
 
-**Why it works:** The discovery phase is the key. Most advice is generic because it doesn't know you. This spends real time understanding your humor, opinions, relationships, weird rituals - then uses those as ingredients. Your 92-year-old great uncle who dominates pub quiz? That's going in the profile.
+**Why it works:** The discovery phase is the key. Most advice is generic because it doesn't know you. This spends real time understanding your humor, opinions, relationships, weird rituals — then uses those as ingredients. Your 92-year-old great uncle who dominates pub quiz? That's going in the profile.
 
 ---
 
 ## The Research
 
-This isn't vibes. It's built on 45+ peer-reviewed sources.
+This isn't vibes. It's grounded in published research from actual journals, data from dating platforms, and practical experience — and we're honest about which is which.
 
-| Finding | Impact |
-|---------|--------|
-| First photo vs bio text | **10x impact** |
-| Profile completeness | **30%+ more engagement** |
-| Comments vs simple likes | **2x more likely to get dates** |
-| Mirror selfies | **78% turn-off** |
-| Professional photos | **178% more matches** |
-| Most Compatible matches | **8x more likely to result in dates** |
+**People decide fast, and mostly from photos.** Users spend seconds on a profile, and most of that time goes to photos (Brand et al., 2012). Photos drive the swipe. But on prompt-based apps like Hinge, text matters more than people assume — creative, original profiles are independently rated as more attractive, even controlling for photos (Fiore et al., 2008).
 
-Full research: [`references/research-findings.md`](references/research-findings.md)
+**Specific language beats generic language.** This is one of the strongest findings. "Jazz Cafe on a weeknight" works better than "live music" — and we know why. Toma & Hancock (2012) found that specific, concrete language is a linguistic marker of honesty. Vague, abstract phrasing is a marker of deception. Readers pick up on this without knowing they're doing it. Separately, specific language creates a feeling of closeness — naming a real place puts someone there, while a category keeps them at arm's length (Trope & Liberman, 2010).
+
+**Showing beats telling.** Writing "I have dark humor" tells people nothing — anyone can claim any trait. Writing "Being nice about Timothee Chalamet" demonstrates it. Signaling theory (Donath, 2007) explains the difference: a demonstrated quality is a costly signal — hard to fake, therefore credible. A stated quality is a cheap signal — easy to fake, therefore ignored.
+
+**Humor works, but only if you're actually funny.** Humor in profiles increases perceived attractiveness and reads as a signal of intelligence (McGee & Shevlin, 2009). Producing humor matters more than claiming to appreciate it (Bressler & Balshine, 2006). Failed humor is worse than no humor.
+
+**The market is unequal.** Bruch & Newman (2018), published in *Science Advances*, analyzed 200,000 users and found that desirability follows a power law. Most people pursue partners roughly 25% more desirable than themselves. The top profiles receive wildly disproportionate attention. This is why the skill focuses on differentiation and filtering rather than broad appeal — you're not trying to be liked by everyone.
+
+29 cited studies, platform data from Hinge and OkCupid, plus foundational work on signaling theory and self-disclosure. Every claim tagged with its evidence tier. Full citations in [`references/research-findings.md`](references/research-findings.md).
 
 ---
 

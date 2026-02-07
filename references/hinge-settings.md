@@ -44,6 +44,8 @@ Optimizing settings for visibility and quality matches.
 - Very narrow ranges dramatically shrink the pool
 - Consider: does the person they're looking for actually date people their age?
 
+**The research context:** Bruch & Newman (2018, *Science Advances*) analyzed ~200,000 users and found that most people pursue partners ~25% more desirable than themselves, desirability follows a power-law distribution, and women's desirability peaked earlier than men's in their dataset. This isn't about anyone's worth — it's about understanding the market you're operating in so settings don't accidentally filter out good matches.
+
 ---
 
 ## Dealbreakers
@@ -119,21 +121,25 @@ Every piece of info at top of profile competes for attention. If it's not adding
 ### Activity Matters
 - Daily activity (10-15 mins) keeps profile visible
 - Extended inactivity = algorithm deprioritizes
+- *Evidence tier: conventional wisdom. Hinge hasn't published specifics, but this is consistent with how recommendation systems work and is widely reported across dating coaching.*
 
 ### Engagement Quality
-- Comments on likes >> simple likes
+- Comments on likes significantly outperform bare likes — Hinge's own data says they're more likely to lead to conversations (Hinge press data, circa 2018-2019)
 - Respond to matches promptly
 - Extend conversations (not one-word answers)
+- *Evidence tier: platform data for the comments claim. The rest is conventional wisdom.*
+- *Why comments work (research): signaling theory (Donath, 2007) — a comment is a costly signal requiring effort, indicating genuine interest. A bare like is a cheap signal that communicates nothing specific.*
 
 ### Selectivity
-- Being too selective = algorithm shows you to fewer people
-- Being not selective enough = matches don't convert
-- Sweet spot: ~10-20% like rate
+- Being too selective may limit who the algorithm shows you to
+- Being not selective enough means matches don't convert
+- *Evidence tier: conventional wisdom. The "10-20% like rate sweet spot" is widely cited in dating coaching but has no published source. The principle (some selectivity signals quality) is plausible but unverified.*
 
 ### Most Compatible
 - Check daily (refreshes every 24 hours)
-- 8x more likely to result in dates
+- Hinge claims these are significantly more likely to result in dates (they've cited 8x in press materials around the 2018 feature launch). Uses the Gale-Shapley matching algorithm
 - Algorithm learns from your choices here
+- *Evidence tier: platform data — Hinge's own claim. The methodology behind the 8x figure has never been published.*
 
 ---
 

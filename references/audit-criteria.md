@@ -13,6 +13,8 @@ Use this framework to evaluate existing profiles. Score each category, identify 
 | Completeness | 15% | All slots filled, all prompts answered |
 | Signaling | 15% | What the profile actually communicates |
 
+**Why these weights:** Photos are weighted highest because research consistently shows they dominate swipe decisions (Tyson et al., 2016; Brand et al., 2012). Prompts at 30% reflects that on prompt-based apps like Hinge, text independently predicts attractiveness beyond photos (Fiore et al., 2008) and matters more to users seeking serious relationships (Sumter et al., 2017). Completeness is weighted because incomplete profiles likely get algorithmically deprioritized (platform data) and signal low effort — a cheap signal that repels quality matches (Donath, 2007). The exact percentages are a practical framework, not from a specific study.
+
 ---
 
 ## Photo Evaluation (40%)
@@ -92,6 +94,8 @@ Deduct points for:
 - "Ask me anything" (-1)
 - Lists of generic hobbies (-1)
 
+**Why generic phrases are penalized:** Toma & Hancock (2012) found that vague, abstract language is a linguistic marker of deception — readers unconsciously process it as less trustworthy. Separately, the von Restorff effect (cognitive psychology) means distinctive items in a set are remembered while common items are forgotten. When someone scrolls through hundreds of "love to laugh" profiles, generic phrasing makes you invisible.
+
 ---
 
 ## Completeness (15%)
@@ -110,6 +114,8 @@ Deduct points for:
 
 ## Signaling Analysis (15%)
 
+This section uses signaling theory (Donath, 2007) — the idea that some profile elements are "costly signals" (hard to fake, therefore credible) and others are "cheap signals" (easy to fake, therefore ignored by discerning matches).
+
 ### What Does This Profile Actually Communicate?
 
 **Intended signals** (what they want to say):
@@ -120,21 +126,21 @@ Deduct points for:
 
 ### Signal Quality Check
 
-| Good Signals | Present? |
-|--------------|----------|
-| Effort invested | ☐ |
-| Genuine personality | ☐ |
-| Clear interests | ☐ |
-| Relationship intent | ☐ |
-| Cultural/lifestyle markers | ☐ |
+| Costly Signals (Good) | Present? | Notes |
+|-----------------------|----------|-------|
+| Effort invested (quality photos, thoughtful text) | ☐ | Signals genuine interest in finding someone |
+| Specific cultural/venue references | ☐ | Requires actual participation — credible |
+| Demonstrated personality (humor, opinions) | ☐ | Hard to fake — shows real person |
+| Professional/creative evidence | ☐ | Verifiable status signal |
+| Relationship intent (specific, not generic) | ☐ | "Looking for" is cheap; showing warmth is costly |
 
-| Bad Signals | Present? |
-|-------------|----------|
-| Low effort | ☐ |
-| Hiding something | ☐ |
-| Inconsistent | ☐ |
-| Generic/forgettable | ☐ |
-| Negative/bitter | ☐ |
+| Cheap Signals (Problematic) | Present? | Notes |
+|-----------------------------|----------|-------|
+| Low effort (empty prompts, basic selfies) | ☐ | Signals low investment in finding someone |
+| Vague/generic claims ("love to laugh") | ☐ | Anyone can say this — zero information |
+| Hiding (sunglasses, heavy filters, no full body) | ☐ | Signals deception, even if unintentional |
+| Inconsistent tone | ☐ | Confuses the reader about who this person is |
+| Negative/bitter framing | ☐ | Signals bad past experiences, not ready to date |
 
 ---
 
