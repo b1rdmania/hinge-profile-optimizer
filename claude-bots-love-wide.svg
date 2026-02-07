@@ -3,7 +3,7 @@
   <rect width="700" height="280" fill="#fff"/>
 
   <!-- Left Claude Bot -->
-  <g transform="translate(270, 150)">
+  <g transform="translate(270, 155) scale(1.8)">
     <!-- Body -->
     <rect x="-25" y="-30" width="50" height="60" rx="8" fill="#E07A38"/>
     <!-- Face screen -->
@@ -22,7 +22,7 @@
   </g>
 
   <!-- Right Claude Bot (with lipstick & extras) -->
-  <g transform="translate(430, 150)">
+  <g transform="translate(430, 155) scale(1.8)">
     <!-- Body -->
     <rect x="-25" y="-30" width="50" height="60" rx="8" fill="#E07A38"/>
     <!-- Face screen -->
@@ -53,9 +53,9 @@
   </g>
 
   <!-- Heart above -->
-  <path d="M350 78 C350 71, 340 68, 340 78 C340 88, 350 95, 350 95 C350 95, 360 88, 360 78 C360 68, 350 71, 350 78" fill="#ff4d6d"/>
+  <path d="M350 42 C350 30, 335 25, 335 42 C335 58, 350 70, 350 70 C350 70, 365 58, 365 42 C365 25, 350 30, 350 42" fill="#ff4d6d"/>
 
   <!-- Tiny hearts -->
-  <path d="M325 90 C325 87.5, 322 86.5, 322 88.5 C322 91, 325 93, 325 93 C325 93, 328 91, 328 88.5 C328 86.5, 325 87.5, 325 90" fill="#ff9999"/>
-  <path d="M375 90 C375 87.5, 372 86.5, 372 88.5 C372 91, 375 93, 375 93 C375 93, 378 91, 378 88.5 C378 86.5, 375 87.5, 375 90" fill="#ff9999"/>
+  <path d="M318 62 C318 57, 313 55, 313 59 C313 64, 318 68, 318 68 C318 68, 323 64, 323 59 C323 55, 318 57, 318 62" fill="#ff9999"/>
+  <path d="M382 62 C382 57, 377 55, 377 59 C377 64, 382 68, 382 68 C382 68, 387 64, 387 59 C387 55, 382 57, 382 62" fill="#ff9999"/>
 </svg>
