@@ -67,6 +67,19 @@ Good copy should:
 - Specific humor (right people laugh, wrong people confused)
 - Cultural markers (signals belonging to particular worlds)
 
+**When to dial this down.** The filtering argument assumes an abundant pool. Bruch & Newman's power law holds in any market, but "you only need the right 30-50 people" is only reassuring when 30-50 people exist. Where the viable pool is under about fifty — small metro, narrow age band, minority orientation, or several hard dealbreakers stacked — sorting stops paying for itself and starts eating the pool.
+
+Use the thickness band named in Phase 3:
+
+| Mechanism | Thick market | Thin market |
+|-----------|--------------|-------------|
+| Niche references | Keep — insiders light up | Keep, but carry the hook in the line so outsiders aren't locked out |
+| Strong opinions | Keep — bounces the wrong people | State as a preference, not a test |
+| Specific humor | Keep | Keep |
+| Cultural markers | Keep — signals a world | Keep the marker, lose the shibboleth |
+
+Specificity is never the thing to cut. It signals honesty (Toma & Hancock, 2012) and creates closeness at any pool size. The variable is how much alienation the market can absorb.
+
 ### 4. Balance Edge with Warmth
 
 All edge = reads as bitter, negative, hard to be around

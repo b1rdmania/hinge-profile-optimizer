@@ -158,9 +158,21 @@ Gently align expectations with market reality.
 **If needed, do the math with them:**
 > "Let's think about the actual pool here. Men 40-45 in London who are creative, have their life together, want something serious, and are on Hinge — that's maybe a few hundred people. And they have options — they can date women 28-48. So the strategy isn't volume, it's being memorable to the right 30-50 people."
 
+**Then name the thickness.** You just estimated a pool size. Say it out loud and band it, because Phases 5 and 6 need it:
+
+| Estimated viable pool | Call it | What it changes downstream |
+|-----------------------|---------|----------------------------|
+| Several hundred or more | **Thick** | Filter hard. Niche references, strong opinions, deliberate exclusion. |
+| Roughly 50-200 | **Moderate** | Stay specific, lose the deliberately alienating edge. |
+| Under ~50 | **Thin** | Specificity yes, sorting no. Breadth without going generic. |
+
+**Thickness is not geography.** It's metro size, age band, orientation, and dealbreaker width multiplied together. A 52-year-old in a major city and a 28-year-old in a small one can land in the same band, and two people in the same postcode routinely don't. Estimate it from what they've told you in Phases 1-2. Don't infer it from where they live, and don't ask for a city expecting it to answer this.
+
+**If the pool is thin, the first move is settings, not copy.** Widening radius or age range by a notch usually does more than any rewrite can.
+
 **Tone:** Honest, not brutal. Frame as strategy, not criticism of their hopes. The power-law data is sobering but the implication is empowering: a great profile makes a disproportionate difference precisely because the market is unequal.
 
-**Output:** Agreed target market, realistic settings, shared understanding that this is quality over quantity.
+**Output:** Agreed target market, realistic settings, a named thickness (thick / moderate / thin), and a shared understanding that this is quality over quantity.
 
 ---
 
@@ -214,10 +226,11 @@ Each of these is grounded in research — see `references/copy-principles.md` fo
 - Can someone easily respond to this?
 - Does it invite a question or shared opinion?
 
-**Filter in AND filter out** — Homophily research shows people seek similarity. Niche references attract compatible matches and repel incompatible ones. In a power-law market, this is the right strategy.
-- The right people should light up
-- The wrong people should self-select out
-- Niche references are features, not bugs
+**Filter in AND filter out, scaled to thickness** — Homophily research shows people seek similarity. Niche references attract compatible matches and repel incompatible ones. In a thick market that's the right strategy. In a thin one the same move can cut a small pool below viability, so use the band you named in Phase 3.
+- Thick: the right people light up, the wrong people self-select out, niche references are features
+- Moderate: keep the references, lose the shibboleths
+- Thin: keep every specific detail, drop the deliberately alienating ones
+- Specificity is never what you cut. What scales with thickness is how much you're willing to alienate.
 
 **Balance edge with warmth** — Humor signals intelligence (McGee & Shevlin, 2009) but excessive self-deprecation signals insecurity. Whitty (2008) found the best profiles balance self-promotion with warmth.
 - Dark humor needs a soft landing (family, friends, genuine care)
