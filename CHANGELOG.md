@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.1 — 2026-09-01
+
+- Use the supported OpenAI plugin category `Entertainment` instead of the unsupported `Lifestyle` value.
+
 ## 1.2.0 — 2026-09-01
 
 - Package the skill for Claude Code, Codex, and the OpenAI Plugins Directory.

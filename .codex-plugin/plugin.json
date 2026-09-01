@@ -1,6 +1,6 @@
 {
   "name": "hinge-profile-optimizer",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Research-backed Hinge profile audits, photo strategy, prompt writing, settings review, and implementation support.",
   "author": {
     "name": "b1rdmania",
@@ -21,7 +21,7 @@
     "shortDescription": "Research-backed profile feedback and rewriting.",
     "longDescription": "Build a more distinctive and honest Hinge profile through screenshot audits, photo selection, conversational discovery, prompt writing, settings review, and implementation support.",
     "developerName": "b1rdmania",
-    "category": "Lifestyle",
+    "category": "Entertainment",
     "capabilities": [
       "Interactive",
       "Write"

@@ -7,6 +7,7 @@ bash "$repo_root/scripts/sync-plugin-skill.sh" --check
 python3 -m json.tool "$repo_root/.claude-plugin/plugin.json" >/dev/null
 python3 -m json.tool "$repo_root/.claude-plugin/marketplace.json" >/dev/null
 python3 -m json.tool "$repo_root/.codex-plugin/plugin.json" >/dev/null
+python3 -c 'import json, pathlib, sys; allowed={"Productivity","Creativity","Developer Tools","Business & Operations","Data & Analytics","Communication","Education & Research","Security","Finance","Healthcare","Travel","Entertainment","Other"}; category=json.loads(pathlib.Path(sys.argv[1]).read_text())["interface"]["category"]; assert category in allowed, f"unsupported plugin category: {category}"' "$repo_root/.codex-plugin/plugin.json"
 
 test -f "$repo_root/skills/hinge-profile-optimizer/SKILL.md"
 test -f "$repo_root/skills/hinge-profile-optimizer/agents/openai.yaml"
