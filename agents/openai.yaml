@@ -1,0 +1,7 @@
+interface:
+  display_name: "Hinge Profile Optimizer"
+  short_description: "Build a distinctive and honest dating profile"
+  default_prompt: "Use $hinge-profile-optimizer to audit my Hinge profile and suggest concrete improvements."
+
+policy:
+  allow_implicit_invocation: true

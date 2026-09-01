@@ -1,0 +1,17 @@
+{
+  "name": "hinge-profile-optimizer",
+  "version": "1.2.0",
+  "description": "Research-backed Hinge profile audits, photo strategy, prompt writing, settings review, and implementation support.",
+  "author": {
+    "name": "b1rdmania"
+  },
+  "homepage": "https://github.com/b1rdmania/hinge-profile-optimizer",
+  "repository": "https://github.com/b1rdmania/hinge-profile-optimizer",
+  "license": "MIT",
+  "keywords": [
+    "hinge",
+    "dating-profile",
+    "profile-writing",
+    "photo-selection"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "hinge-profile-optimizer",
+  "version": "1.2.0",
+  "description": "Research-backed Hinge profile audits, photo strategy, prompt writing, settings review, and implementation support.",
+  "author": {
+    "name": "b1rdmania",
+    "url": "https://github.com/b1rdmania"
+  },
+  "homepage": "https://github.com/b1rdmania/hinge-profile-optimizer",
+  "repository": "https://github.com/b1rdmania/hinge-profile-optimizer",
+  "license": "MIT",
+  "keywords": [
+    "hinge",
+    "dating-profile",
+    "profile-writing",
+    "photo-selection"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Hinge Profile Optimizer",
+    "shortDescription": "Research-backed profile feedback and rewriting.",
+    "longDescription": "Build a more distinctive and honest Hinge profile through screenshot audits, photo selection, conversational discovery, prompt writing, settings review, and implementation support.",
+    "developerName": "b1rdmania",
+    "category": "Lifestyle",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "brandColor": "#FF4D6D",
+    "composerIcon": "./assets/hinge-profile-logo.png",
+    "logo": "./assets/hinge-profile-logo.png",
+    "websiteURL": "https://github.com/b1rdmania/hinge-profile-optimizer",
+    "privacyPolicyURL": "https://github.com/b1rdmania/hinge-profile-optimizer/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/b1rdmania/hinge-profile-optimizer/blob/main/TERMS.md",
+    "defaultPrompt": [
+      "Audit my current Hinge profile from these screenshots.",
+      "Help me choose and order my six profile photos.",
+      "Interview me and write Hinge prompts that sound like me."
+    ]
+  }
+}
