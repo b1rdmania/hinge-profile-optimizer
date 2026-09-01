@@ -6,12 +6,12 @@
   },
   "metadata": {
     "description": "Research-backed Hinge dating profile optimization. Discovery interview, game theory analysis, photo strategy, copy creation, and settings optimization.",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "plugins": [
     {
       "name": "hinge-profile-optimizer",
-      "description": "Comprehensive Hinge profile optimization based on 45+ peer-reviewed sources. Includes 8-phase process: audit, discovery interview, reality check, photo strategy, copy creation, settings optimization, implementation support, and algorithm strategy.",
+      "description": "Research-backed Hinge profile optimization covering audit, discovery, photo strategy, prompt writing, settings, implementation, and post-launch review.",
       "source": "./",
       "strict": false,
       "skills": ["./"]
