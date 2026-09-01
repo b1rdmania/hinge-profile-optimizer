@@ -5,7 +5,7 @@ Use this copy for the **Skills only** submission type in the OpenAI plugin submi
 ## Info
 
 - **Plugin name:** Hinge Profile Optimizer
-- **Category:** Lifestyle
+- **Category:** Entertainment
 - **Short description:** Research-backed profile feedback and rewriting.
 - **Long description:** Build a more distinctive and honest Hinge profile through screenshot audits, photo selection and ordering, conversational discovery, prompt and caption writing, settings review, implementation support, and post-launch troubleshooting. The process adapts to a complete rebuild or a focused request and keeps recommendations grounded in the user's real life rather than generic templates.
 - **Website:** https://github.com/b1rdmania/hinge-profile-optimizer
